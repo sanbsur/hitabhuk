@@ -12835,7 +12835,7 @@ function Kv() {
                                         children: "+91 8699935361"
                                     }), s.jsx("p", {
                                         className: "text-gray-600",
-                                        children: "+91 9316618360"
+                                        children: "+91 9686450101"
                                     })]
                                 })]
                             }), s.jsxs("div", {
@@ -12992,7 +12992,7 @@ function Kv() {
                                 children: "+91 8699935361"
                             }), s.jsx("p", {
                                 className: "opacity-80",
-                                children: "+91 9316618360"
+                                children: "+91 9686450101"
                             }), s.jsx("p", {
                                 className: "opacity-80 mt-3",
                                 children: "www.sizzleaf.com"
